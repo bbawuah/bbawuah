@@ -1,14 +1,12 @@
-# Hi there, thanks for stopping by 👋
+# Hi there, thanks for stopping by 👋🏿
 
-I create digital experiences on the web.
+I create digital experiences on the web 🔮
 
 ---
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a very cool 3D experience.
-- 🌱 I’m currently learning how to integrate WebXR into my projects!
-- 📫 How to reach me: 
+- 🌱 I’m currently exploring how to integrate WebXR into my projects.
+- 📫 How to reach me: [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127), [Instagram](https://www.instagram.com/brianbawuah) or [Twitter](https://twitter.com/brianbawuah). Whatever works best for you 😉
 
 ---
 
