@@ -1,21 +1,21 @@
-### Hi there 👋
+# Hi there, thanks for stopping by 👋
 
-<!--
-**bbawuah/bbawuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create digital experiences on the web.
+
+---
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a very cool 3D experience.
+- 🌱 I’m currently learning how to integrate WebXR into my projects!
+- 📫 How to reach me: 
+
+---
+
+## Technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbawuah&hide=objective-c,starlark,ruby,css,html,handlebars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbawuah&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbawuah&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
