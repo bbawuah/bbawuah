@@ -1,6 +1,6 @@
 # Hi there, thanks for stopping by 👋🏿
 
-I am a designer and developer of digital products and experiences on the web 🔮
+I am a designer and developer of digital products and experiences 🔮
 
 ---
 
