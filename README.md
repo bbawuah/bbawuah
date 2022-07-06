@@ -4,7 +4,7 @@ I am a designer and developer of digital products and experiences 🔮
 
 ---
 
-- Check out my latest project [The Next Gallery](https://thenext.gallery) 🤙🏿
+- Check out my latest project [Corita's Dream](https://github.com/bbawuah/coritas-dream) 🤙🏿
 - 📫 How to reach me: [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127), [Instagram](https://www.instagram.com/brianbawuah) or [Twitter](https://twitter.com/brianbawuah). Whatever works best for you 😉
 
 ---
