@@ -8,6 +8,7 @@ I am a designer and developer of digital products and experiences 🔮
 - 📫 How to reach me: [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127), [Instagram](https://www.instagram.com/brianbawuah) or [Twitter](https://twitter.com/brianbawuah). Whatever works best for you 😉
 - Check out [CodeSandbox](https://codesandbox.io/u/bbawuah) for my Front-end experiments🤙🏿
 - Other projects I have worked on [Bisc Taalhuizen Frontend](https://github.com/ConductionNL/bisc-frontend)
+- [Resume](https://read.cv/brianbawuah)
 ---
 
 ## Some stats
