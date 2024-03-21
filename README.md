@@ -1,6 +1,18 @@
 # Hi there, thanks for stopping by 👋🏿
 
-I am a designer and developer of digital products and experiences 🔮
+Hello! I'm a Software Engineer passionate about crafting digital products and experiences. I enjoy turning complex problems into elegant, user-friendly solutions. 
+
+Here, you'll find a variety of projects showcasing my journey in tech, from frontend interfaces to sophisticated backend systems. Feel free to explore and reach out if you have any questions or collaboration ideas!
+
+## What I'm Currently Working On:
+- [GoPro Streaming Project](https://github.com/bbawuah/gopro-project) - An innovative solution for managing and streaming GoPro camera footage. (You can find more details in the project repository!)
+
+## Technologies I Love:
+- Frontend: React, TypeScript, Vite, Tailwind CSS, Remix, Svelte, Angular
+- Backend: Node.js, Python, Golang
+- And always exploring more!
+
+Let's connect and build something amazing together!
 
 ---
 
@@ -25,6 +37,11 @@ I am a designer and developer of digital products and experiences 🔮
 ![Express](https://img.shields.io/badge/-Express-259dff?style=flat&logo=Express)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
 ![Svelte](https://img.shields.io/badge/-Svelte-white?style=flat&logo=Svelte)
+![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python)
+![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis)
+![Golang](https://img.shields.io/badge/-Go-white?style=flat&logo=Go)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)
+![Celery](https://img.shields.io/badge/-Celery-green?style=flat&logo=Celery)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbawuah&hide=objective-c,starlark,ruby,css,html,handlebars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
