@@ -5,7 +5,7 @@ Hello! I'm a Software Engineer passionate about crafting digital products and ex
 Here, you'll find a variety of projects showcasing my journey in tech, from frontend interfaces to sophisticated backend systems. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
 ## What I'm Currently Working On:
-- [PROJECT_JARVIS](https://github.com/bbawuah/PROJECT_JARVIS) - An innovative solution for managing and streaming GoPro camera footage. (You can find more details in the project repository!)
+- [PROJECT_JARVIS](https://github.com/bbawuah/PROJECT_JARVIS) - PROJECT_JARVIS is a prototype that streams from a #GoPro to your screen, captures frames, and uses #AI to analyze them in real-time. (You can find more details in the project repository!)
 
 ## Technologies I Love:
 - Frontend: React, TypeScript, Vite, Tailwind CSS, Remix, Svelte, Angular
