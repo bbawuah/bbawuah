@@ -16,8 +16,10 @@ Let's connect and build something amazing together!
 
 ---
 
-- Check out my latest project [Corita's Dream](https://github.com/bbawuah/coritas-dream) 🤙🏿
-- 📫 How to reach me: [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127)
+- Check out my latest project [PROJECT_JARVIS](https://github.com/bbawuah/PROJECT_JARVIS) 🤙🏿
+- 📫 How to reach me:
+  - [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127)
+  - [Twitter](https://twitter.com/brianbawuah)
 - Check out [CodeSandbox](https://codesandbox.io/u/bbawuah) for my Front-end experiments🤙
 
 
