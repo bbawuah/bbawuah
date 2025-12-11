@@ -1,11 +1,11 @@
-# Hi there, thanks for stopping by 👋🏿
+# Hi, I'm Brian — Senior Frontend / Full-Stack Engineer 👋🏿
 
-Hello! I'm a Software Engineer passionate about crafting digital products and experiences. I enjoy turning complex problems into elegant, user-friendly solutions. 
+Building High-Performance Web, Secure Systems & Offline AI
 
-Here, you'll find a variety of projects showcasing my journey in tech, from frontend interfaces to sophisticated backend systems. Feel free to explore and reach out if you have any questions or collaboration ideas!
+I’m a software engineer focused on secure, scalable and high-performance digital products.
+I love solving hard technical problems, especially where AI, performance engineering, and system design come together.
 
-## What I'm Currently Working On:
-- [PROJECT_JARVIS](https://github.com/bbawuah/PROJECT_JARVIS) - PROJECT_JARVIS is a prototype that streams from a #GoPro to your screen, captures frames, and uses #AI to analyze them in real-time. (You can find more details in the project repository!)
+I’ve built systems for government, defence and enterprise, and I enjoy taking ownership from architecture to implementation.
 
 ## Technologies I Love:
 - Frontend: React, TypeScript, Vite, Tailwind CSS, Remix, Svelte, Angular
@@ -16,7 +16,6 @@ Let's connect and build something amazing together!
 
 ---
 
-- Check out my latest project [PROJECT_JARVIS](https://github.com/bbawuah/PROJECT_JARVIS) 🤙🏿
 - 📫 How to reach me:
   - [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127)
   - [Twitter](https://twitter.com/brianbawuah)
