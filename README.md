@@ -1,4 +1,4 @@
-# Hi, I'm Brian — Senior Frontend / Full-Stack Engineer 👋🏿
+# Hi, I'm Brian — Product Engineer 👋🏿
 
 Building High-Performance Web, Secure Systems & Offline AI
 
