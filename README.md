@@ -2,7 +2,7 @@
 
 Building High-Performance Web, Secure Systems & Offline AI
 
-I’m a software engineer focused on secure, scalable and high-performance digital products.
+I’m a product engineer focused on secure, scalable and high-performance digital products.
 I love solving hard technical problems, especially where AI, performance engineering, and system design come together.
 
 I’ve built systems for government, defence and enterprise, and I enjoy taking ownership from architecture to implementation.
