@@ -1,48 +1,25 @@
-# Hi, I'm Brian — Product Engineer 👋🏿
+# Hi, I'm Brian 👋🏿
 
-Building High-Performance Web, Secure Systems & Offline AI
+**Product engineer & systems designer**
 
-I’m a product engineer focused on secure, scalable and high-performance digital products.
-I love solving hard technical problems, especially where AI, performance engineering, and system design come together.
+I design and build software for environments where the usual shortcuts don't work: regulated, high-assurance and sometimes fully air-gapped, where data can't leave the building and every dependency has to be accounted for. Most of my work is for the public sector and defence.
 
-I’ve built systems for government, defence and enterprise, and I enjoy taking ownership from architecture to implementation.
+## What I do
 
-## Technologies I Love:
-- Frontend: React, TypeScript, Vite, Tailwind CSS, Remix, Svelte, Angular
-- Backend: Node.js, Python, Golang
-- And always exploring more!
+**System design.** I design how platforms fit together, not just what's on screen: a single API gateway in front of many apps and services, with one front door for both browser traffic and machine-to-machine access; a developer portal so internal and external teams can find, understand and safely consume those APIs; identity and SSO that work the same across every app and every environment. All configuration lives in git: a change is a merge request and a rollback is a revert.
 
-Let's connect and build something amazing together!
+**The platform others build on.** A monorepo that a team works in every day: shared packages, dependency and version discipline, CI gates derived from the dependency graph, and a release route into environments without internet access.
 
----
+**Product.** I'm still hands-on: a family of frontend apps (search, translation, AI assistants, an Office add-in) built on a shared design system and delivered all the way to production.
 
-- 📫 How to reach me:
-  - [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127)
-  - [Twitter](https://twitter.com/brianbawuah)
-- Check out [CodeSandbox](https://codesandbox.io/u/bbawuah) for my Front-end experiments🤙
+**AI that stays inside the perimeter.** Retrieval, agents, on-device and self-hosted models, and the interface on top. The hard part is rarely the model. It's getting from a demo to something durable in production.
 
+**Guards, not features.** Much of the value I deliver is "this class of bug can't happen anymore": a lint rule, a CI gate or a type that makes the mistake impossible instead of documenting it. I build my own studio the same way: coding agents work in parallel, and a quality gate decides what reaches `main`.
 
-## Some stats
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbawuah&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+## Stack
 
----
+TypeScript · React · Next.js · Node.js · Bun · Turborepo · PostgreSQL · Python · Go · Kubernetes · OIDC/SAML · Three.js / GLSL · WebGPU
 
-## Technologies
+## Find me
 
-![Html5](https://img.shields.io/badge/-HTML-white?style=flat&logo=Html5)
-![CSS3](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=2965f1)
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=Javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-white?style=flat&logo=Typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-white?style=flat&logo=Node.js)
-![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=Sass)
-![Express](https://img.shields.io/badge/-Express-259dff?style=flat&logo=Express)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=React)
-![Svelte](https://img.shields.io/badge/-Svelte-white?style=flat&logo=Svelte)
-![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-white?style=flat&logo=Redis)
-![Golang](https://img.shields.io/badge/-Go-white?style=flat&logo=Go)
-![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=Angular)
-![Celery](https://img.shields.io/badge/-Celery-green?style=flat&logo=Celery)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbawuah&hide=objective-c,starlark,ruby,css,html,handlebars&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[lab-b.dev](https://lab-b.dev) · [LinkedIn](https://nl.linkedin.com/in/brian-bawuah-547439127) · [X](https://twitter.com/brianbawuah)
